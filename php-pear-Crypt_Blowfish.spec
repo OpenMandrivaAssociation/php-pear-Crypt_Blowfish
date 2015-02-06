@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	13
+Release:	14
 Summary:	Quick two-way blowfish encryption
 License:	PHP License
 Group:		Development/PHP
