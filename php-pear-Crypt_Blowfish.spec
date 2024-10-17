@@ -8,7 +8,7 @@ Release:	14
 Summary:	Quick two-way blowfish encryption
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Crypt_Blowfish/
+URL:		https://pear.php.net/package/Crypt_Blowfish/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 BuildRequires:	sed >= 4.0.0
 Requires(post): php-pear
